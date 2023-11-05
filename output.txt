@@ -1,0 +1,19 @@
+Displaying count of words in a file:
+hello - 2
+hi - 3
+this - 1
+is - 2
+arupya - 2
+i - 2
+am - 1
+from - 1
+pedana - 1
+love - 1
+india - 2
+and - 2
+my - 1
+mom - 2
+it - 1
+selfish - 1
+Displaying unique words in a file:
+['this', 'am', 'from', 'pedana', 'love', 'my', 'it', 'selfish']
